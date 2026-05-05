@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang "pt-br">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Aula HTML</title>
+    </head>
+        <body bgcolor="white">
+            <font color ="#ffffff" face= "Times New Roman" size="3">
+            <h1>Aprendendo HTML</h1>
+                <p>A linguagem HTML não é difícil<br> basta prestar atenção</br>
+                <p>Até quem nunca programou pode aprender HTML com facilidade.</p>
+        </body>
+</html>
